@@ -81,7 +81,7 @@ Inria Aerial
 Accuracy:
 `python tools/test.py config_file checkpoints_file --eval mIoU`
 
-*Due to patent fillings, pre-trained models are temporarily unavailable.*
+*Please download following pretrianed-model [here](https://drive.google.com/file/d/1FfG-qRlGy-2BsVjN2ZcKTEG9wZeo3sdW/view?usp=sharing)*
 
 FPS:
 `python tools/fps_test.py config_file --height height of the test image --width width of the test image`
