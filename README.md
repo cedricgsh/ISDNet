@@ -72,10 +72,10 @@ Create folder named 'root_path', its structure is
 
 ### Training
 DeepGlobe
-`./tools/dist_train.sh configs/isdnet/isdnet_1224x1224_80k_deepglobe.py 4`
+`./tools/dist_train.sh configs/isdnet/isdnet_r18-d8_1224x1224_80k_DeepGlobe.py 4`
 
 Inria Aerial
-`./tools/dist_train.sh configs/isdnet/isdnet_1224x1224_80k_deepglobe.py 4`
+`./tools/dist_train.sh configs/isdnet/isdnet_r18-d8_2500x2500_40k_InriaAerial.py 4`
 
 ### Evaluation
 Accuracy:
